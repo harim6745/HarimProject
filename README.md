@@ -20,6 +20,6 @@ GUI간 이동
 
 ## 시연동영상 링크
 
-[![Video Label](http://img.youtube.com/vi/UCaw8oG7jbXbHValyRoaAYCA.jpg)](https://www.youtube.com/channel/UCaw8oG7jbXbHValyRoaAYCA/)
+[![Video Label](http://img.youtube.com/vi/sfj8VVkqZME.jpg)](https://www.youtube.com/watch?v=sfj8VVkqZME)
 
 ##
