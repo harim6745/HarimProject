@@ -9,7 +9,16 @@ db연동 회원가입, 로그인
 
 ## 힘들었던 점
 로그인 구현  
-GUI 간 이동
+GUI간 이동
 
 ## 보완해야 하는 점
-로그인 구현
+로그인 구현  
+GUI간 이동  
+마지막에 회원정보, 영화제목, 날짜, 좌석 모두 불러오기
+
+## JavaDoc API 링크
+
+## 시연동영상 링크
+https://www.youtube.com/channel/UCaw8oG7jbXbHValyRoaAYCA/
+
+##
