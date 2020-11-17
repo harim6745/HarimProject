@@ -19,6 +19,7 @@ GUI간 이동
 ## JavaDoc API 링크
 
 ## 시연동영상 링크
-https://www.youtube.com/channel/UCaw8oG7jbXbHValyRoaAYCA/
+
+[![Video Label](http://img.youtube.com/vi/UCaw8oG7jbXbHValyRoaAYCA.jpg)](https://www.youtube.com/channel/UCaw8oG7jbXbHValyRoaAYCA/)
 
 ##
