@@ -20,7 +20,8 @@
 - 마지막에 회원정보, 영화제목, 날짜, 좌석 모두 불러오기
 
 ## JavaDoc API 링크
-[클릭](https://harim6745.github.io/HarimProject/HarimProject/doc/index.html)
+[클릭](https://harim6745.github.io/HarimProject/doc/index.html)
+
 ## 시연동영상 링크
 
 [![Video Label](http://img.youtube.com/vi/sfj8VVkqZME/0.jpg)](https://youtu.be/sfj8VVkqZME)
